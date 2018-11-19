@@ -1,0 +1,1 @@
+### Source : https://andrewrgoss.com/2017/getting-started-with-nsq-for-go/
